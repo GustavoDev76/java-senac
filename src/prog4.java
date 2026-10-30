@@ -25,10 +25,5 @@ public class prog4 {
             System.out.println("nao é bissexto");
         }
 
-
-
-
-
-
     }
 }
